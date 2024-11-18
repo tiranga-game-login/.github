@@ -4,7 +4,7 @@
 
    <section>
         <h2>Quick Access Links:</h2>
-            <h3></h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</h3>
+            <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</h3>
             <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga Game</h3>
     </section>
     <section>
