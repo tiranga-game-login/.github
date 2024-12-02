@@ -15,6 +15,26 @@ Plese contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_blan
         <p>
             Tiranga Game is a popular online game that combines entertainment with patriotism, where players engage in various activities while experiencing a celebration of India's heritage and national symbols. Whether you're a fan of strategy games, action-packed missions, or immersive experiences, Tiranga Game offers something for everyone. The game allows users to dive into exciting missions while also contributing to the spirit of patriotism. If you're eager to join the fun, you can easily get started by logging into the game or downloading it from the official website.
         </p>
+<section>
+h2>How to Register on Tiranga Game</h2>
+    <ul>
+        <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/login/" target="_blank">official Tiranga Game website.</a></li>
+        <li><strong>Click on 'Register':</strong> Look for the "Register" button on the homepage.</li>
+        <li><strong>Enter Your Details:</strong> Fill in your name, email address, phone number, and create a password.</li>
+        <li><strong>Verify Your Email/Phone:</strong> Check your email or phone for a verification code and enter it on the website.</li>
+        <li><strong>Submit:</strong> Click the "Submit" or "Register" button to complete the process.</li>
+    </ul>
+</section>
+<section>
+  <h2>Login to Tiranga Game</h2>
+    <ul>
+        <li><strong>Go to the Website:</strong> Open the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game website.</a></li>
+        <li><strong>Click on 'Login':</strong> Find the "Login" button on the top-right corner of the page.</li>
+        <li><strong>Enter Your Credentials:</strong> Input your registered email/phone number and password.</li>
+        <li><strong>Click 'Login':</strong> Press the "Login" button to access your account.</li>
+        <li><strong>Optional - Stay Logged In:</strong> Check the "Remember Me" box if you want to stay logged in.</li>
+    </ul>
+</section>
     </section>
     <section>
         <h2>How to Play Tiranga Game</h2>
