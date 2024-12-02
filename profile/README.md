@@ -8,7 +8,7 @@
               <h3><a href="https://tiranga-game.one/register/" target="_blank">Tiranga Game Register</h3>
             <h3><a href="https://tiranga-game.one/download/" target="_blank">Download Tiranga Game</h3>
 
-Plese contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_blank">Teacher Moana</a> After Sign up for your sign up bonus.
+Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_blank">Teacher Moana</a> After Sign up for your sign up bonus.
     </section>
     <section>
       <h2>Introduction</h2>
