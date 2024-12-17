@@ -1,7 +1,7 @@
   <header>
         <h1>Tiranga Game Login</h1>
     </header>
-
+<p>Updated 43 Seconds Ago</p>
    <section>
         <h2>Quick Access Links:</h2>
             <h3><a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</h3>
