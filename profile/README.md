@@ -28,16 +28,40 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
     <h2>How to Log In to Tiranga Game</h2>
     <ul>
         <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game login page.</a></li>
-      <section style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <section style="text-align: center;">
   <img 
     src="https://tiranga-game.one/wp-content/uploads/2024/12/tiranga-game-login.webp" 
     alt="tiranga game login" 
     style="width:390px; height:auto;">
-      </section>
+</section>
         <li><strong>Enter Your Mobile Number:</strong> Type your registered mobile number in the username field.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-2.png" 
+    alt="image 2" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Input Your Password:</strong> Enter your account password in the password field.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-3.png" 
+    alt="image 3" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Click 'Login':</strong> Press the "Login" button to access your account.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-4.png" 
+    alt="image 4" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Complete CAPTCHA:</strong> Solve the CAPTCHA to confirm you're not a robot.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-6.png" 
+    alt="image 6" 
+    style="width:390px; height:auto;">
+</section>
     </ul>
 </section>
 
