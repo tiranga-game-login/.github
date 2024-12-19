@@ -16,6 +16,8 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
             Tiranga Games is a leading online gaming app in India, providing an exceptional gaming experience with over 8 gaming categories and more than 50 casino games. It has quickly become the top choice for players, especially in colour prediction, with its superior gameplay and high-earning potential. Some of the most popular earning games on the Tiranga Games app include Lottery, Colour Prediction, Original, and Slot games.</p>
 
 <p>The app also offers a hassle-free and secure deposit process, allowing users to quickly fund their accounts and enjoy uninterrupted gaming. Whether you're looking to play for fun or earn money, Tiranga Games makes it easy to start playing at any time.</p>
+<p>Tiranga Game, the ultimate color game! Win real money by playing thrilling games like Wingo, K3, 5D, and Aviator. Sign up today and claim your ₹600 instant bonus.
+</p>
             <section>
             <div style="text-align: center;">
   <img 
