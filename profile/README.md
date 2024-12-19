@@ -24,37 +24,47 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
 </section>
         </p>
 <section>
-<h2>How to Register on Tiranga Game</h2>
+<section>
+    <h2>How to Log In to Tiranga Game</h2>
     <ul>
-        <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/login/" target="_blank">official Tiranga Game website.</a></li>
-        <li><strong>Click on 'Register':</strong> Look for the "Register" button on the homepage.</li>
-        <li><strong>Enter Your Details:</strong> Fill in your name, email address, phone number, and create a password.</li>
-        <li><strong>Verify Your Email/Phone:</strong> Check your email or phone for a verification code and enter it on the website.</li>
-        <li><strong>Submit:</strong> Click the "Submit" or "Register" button to complete the process.</li>
+        <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game login page.</a></li>
+        <li><strong>Enter Your Mobile Number:</strong> Type your registered mobile number in the username field.</li>
+        <li><strong>Input Your Password:</strong> Enter your account password in the password field.</li>
+        <li><strong>Click 'Login':</strong> Press the "Login" button to access your account.</li>
+        <li><strong>Complete CAPTCHA:</strong> Solve the CAPTCHA to confirm you're not a robot.</li>
     </ul>
+</section>
+
+<section>
+    <h2>How to Register on Tiranga Game</h2>
+    <ul>
+        <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/register/" target="_blank">registration page.</a></li>
+        <li><strong>Enter Your Mobile Number:</strong> Provide a valid mobile number that hasn’t been registered before.</li>
+        <li><strong>Set a Password:</strong> Choose a strong password to secure your account.</li>
+        <li><strong>Confirm Your Password:</strong> Re-enter the password to confirm it matches.</li>
+        <li><strong>Add Invitation Code:</strong> Enter an invitation code if you have one (e.g., 1661216145961).</li>
+        <li><strong>Click 'Register':</strong> Press the "Register" button to complete the process.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>How to Download the Tiranga Game App</h2>
+    <h3>Method 1: Add to Desktop</h3>
+    <ul>
+        <li><strong>Log In:</strong> Access your Tiranga Game account using your credentials.</li>
+        <li><strong>Tap 'Add to Desktop':</strong> On the homepage, find the "Add to Desktop" option and tap it.</li>
+        <li><strong>Create Shortcut:</strong> A shortcut will be created on your device's home screen for quick access.</li>
+    </ul>
+    <h3>Method 2: Direct Download</h3>
+    <ul>
+        <li><strong>Log In:</strong> Use your credentials to access your account.</li>
+        <li><strong>Scroll Down:</strong> Navigate to the bottom of the homepage to find the download link.</li>
+        <li><strong>Enable App Installation:</strong> In your phone's settings, enable installations from unknown sources.</li>
+        <li><strong>Install the App:</strong> Locate the downloaded file, tap it, and follow the prompts to install.</li>
+    </ul>
+    <p>Visit the <a href="https://tiranga-game.one/download/" target="_blank">download page</a> for more details.</p>
 </section>
 <section>
-  <h2>Login to Tiranga Game</h2>
-    <ul>
-        <li><strong>Go to the Website:</strong> Open the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game website.</a></li>
-        <li><strong>Click on 'Login':</strong> Find the "Login" button on the top-right corner of the page.</li>
-        <li><strong>Enter Your Credentials:</strong> Input your registered email/phone number and password.</li>
-        <li><strong>Click 'Login':</strong> Press the "Login" button to access your account.</li>
-        <li><strong>Optional - Stay Logged In:</strong> Check the "Remember Me" box if you want to stay logged in.</li>
-    </ul>
-</section>
-    </section>
-    <section>
-        <h2>How to Play Tiranga Game</h2>
-        <p>Playing Tiranga Game is easy and enjoyable. Here's a basic guide to get you started:</p>
-        <ol>
-            <li><strong>Create an Account:</strong> Visit the <a href="https://tiranga-game.one/login/" target="_blank">Tiranga Game Login</a> page to sign in or create a new account.</li>
-            <li><strong>Choose Your Mission:</strong> Once logged in, you'll have access to a range of exciting missions that immerse you in scenarios based on Indian heritage.</li>
-            <li><strong>Control Your Character:</strong> Use the intuitive controls to navigate through different levels. Complete challenges, collect rewards, and advance to the next stages.</li>
-            <li><strong>Patriotism and Strategy:</strong> As you play, you'll encounter various symbols of India's heritage, including the national flag, monuments, and historical figures, all while using strategy to win.</li>
-        </ol>
-    </section>
-    <section>
         <h2>Frequently Asked Questions (FAQs)</h2>
         <dl>
             <dt>1. How do I download Tiranga Game?</dt>
