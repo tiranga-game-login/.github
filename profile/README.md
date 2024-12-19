@@ -69,11 +69,47 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
     <h2>How to Register on Tiranga Game</h2>
     <ul>
         <li><strong>Visit the Website:</strong> Go to the <a href="https://tiranga-game.one/register/" target="_blank">registration page.</a></li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-7.png" 
+    alt="image 7" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Enter Your Mobile Number:</strong> Provide a valid mobile number that hasn’t been registered before.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-8.png" 
+    alt="image 8" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Set a Password:</strong> Choose a strong password to secure your account.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-10.png" 
+    alt="image 10" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Confirm Your Password:</strong> Re-enter the password to confirm it matches.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-11.png" 
+    alt="image 11" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Add Invitation Code:</strong> Enter an invitation code if you have one (e.g., 1661216145961).</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-13.png" 
+    alt="image 13" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Click 'Register':</strong> Press the "Register" button to complete the process.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-14.png" 
+    alt="image 14" 
+    style="width:390px; height:auto;">
+</section>
     </ul>
 </section>
 
@@ -83,12 +119,24 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
     <ul>
         <li><strong>Log In:</strong> Access your Tiranga Game account using your credentials.</li>
         <li><strong>Tap 'Add to Desktop':</strong> On the homepage, find the "Add to Desktop" option and tap it.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-16.png" 
+    alt="image 16" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Create Shortcut:</strong> A shortcut will be created on your device's home screen for quick access.</li>
     </ul>
     <h3>Method 2: Direct Download</h3>
     <ul>
         <li><strong>Log In:</strong> Use your credentials to access your account.</li>
         <li><strong>Scroll Down:</strong> Navigate to the bottom of the homepage to find the download link.</li>
+      <section style="text-align: center;">
+  <img 
+    src="https://tiranga-game.one/wp-content/uploads/2024/12/image-17.png" 
+    alt="image 17" 
+    style="width:390px; height:auto;">
+</section>
         <li><strong>Enable App Installation:</strong> In your phone's settings, enable installations from unknown sources.</li>
         <li><strong>Install the App:</strong> Locate the downloaded file, tap it, and follow the prompts to install.</li>
     </ul>
