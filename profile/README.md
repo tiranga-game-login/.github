@@ -14,6 +14,14 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
       <h2>Introduction</h2>
         <p>
             Tiranga Game is a popular online game that combines entertainment with patriotism, where players engage in various activities while experiencing a celebration of India's heritage and national symbols. Whether you're a fan of strategy games, action-packed missions, or immersive experiences, Tiranga Game offers something for everyone. The game allows users to dive into exciting missions while also contributing to the spirit of patriotism. If you're eager to join the fun, you can easily get started by logging into the game or downloading it from the official website.
+            <section>
+            <div style="text-align: center;">
+  <img 
+    src="https://login.tiranga-game.one/wp-content/uploads/2024/11/image-1.png" 
+    alt="tiranga game" 
+    style="width:390px; height:auto;">
+</div>
+</section>
         </p>
 <section>
 <h2>How to Register on Tiranga Game</h2>
