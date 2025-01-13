@@ -21,7 +21,7 @@ Please contact <a href="https://t.me/TeacherMoanaTiranga2ndAccount" target="_bla
             <section>
             <div style="text-align: center;">
   <img 
-    src="https://login.tiranga-game.one/wp-content/uploads/2024/11/image-1.png" 
+    src="https://tirangagame.forum/wp-content/uploads/2024/12/Tiranga-Games.jpg" 
     alt="tiranga game" 
     style="width:390px; height:auto;">
 </div>
